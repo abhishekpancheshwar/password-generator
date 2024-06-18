@@ -15,7 +15,7 @@ Technologies Used
 
 React
 React Hooks (useState, useEffect)
-CSS or a CSS-in-JS solution like Styled Components or Emotion (for styling)
+Tailwind-CSS or a CSS-in-JS solution like Styled Components.
 
 
 ![image](https://github.com/abhishekpancheshwar/password-generator/assets/157621073/614cc28d-9cd5-49ff-b57a-c5958d362055)
